@@ -1,0 +1,10 @@
+C:\Users\whix1\source\repos\FileDownloader\FileDownloader\bin\Debug\FileDownloader.exe.config
+C:\Users\whix1\source\repos\FileDownloader\FileDownloader\bin\Debug\FileDownloader.exe
+C:\Users\whix1\source\repos\FileDownloader\FileDownloader\bin\Debug\FileDownloader.pdb
+C:\Users\whix1\source\repos\FileDownloader\FileDownloader\obj\Debug\FileDownloader.csprojAssemblyReference.cache
+C:\Users\whix1\source\repos\FileDownloader\FileDownloader\obj\Debug\FileDownloader.Form1.resources
+C:\Users\whix1\source\repos\FileDownloader\FileDownloader\obj\Debug\FileDownloader.Properties.Resources.resources
+C:\Users\whix1\source\repos\FileDownloader\FileDownloader\obj\Debug\FileDownloader.csproj.GenerateResource.cache
+C:\Users\whix1\source\repos\FileDownloader\FileDownloader\obj\Debug\FileDownloader.csproj.CoreCompileInputs.cache
+C:\Users\whix1\source\repos\FileDownloader\FileDownloader\obj\Debug\FileDownloader.exe
+C:\Users\whix1\source\repos\FileDownloader\FileDownloader\obj\Debug\FileDownloader.pdb
